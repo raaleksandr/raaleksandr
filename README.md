@@ -2,7 +2,7 @@
 - 👀 I’m interested in ABAP, automated tests, GIT, CI/CD
 - 🌱 I’m currently learning automated tests
 - 💞️ I’m looking to collaborate on projects concerning tools for automated tests
-- 📫 How to reach me mailto:raaleksandr@yandex.ru
+- 📫 How to reach me mailto:raaleksandr@yandex.ru or telegram @raaleksandr
 
 <!---
 raaleksandr/raaleksandr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
